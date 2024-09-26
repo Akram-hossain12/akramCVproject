@@ -1,0 +1,23 @@
+body{
+    border-left: 2px solid black;
+    width: 800px;
+    margin: auto;
+    margin-top: 12px;
+}
+header{
+   margin-left: 60px; 
+}
+header h3{
+    margin-top: -12px;
+    font-style: italic;
+
+}
+header h4{
+    margin-top: -12px;
+    font-style: initial;
+    font-size: 0.9em;
+}
+.work{
+    color: rgb(133, 239, 91);
+  
+}
