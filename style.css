@@ -1,23 +1,65 @@
 body{
-    border-left: 2px solid black;
+    border: 3px solid black;
     width: 800px;
     margin: auto;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 header{
    margin-left: 60px; 
+   border-top : 5px solid black;
+   margin-top: 50px;
+   margin-right: 60px;
 }
 header h3{
-    margin-top: -12px;
+    margin-top: -15px;
+    margin-bottom: 15px;
     font-style: italic;
+    font-size: 0.9em;
 
 }
 header h4{
-    margin-top: -12px;
+    margin-top: -13px;
     font-style: initial;
-    font-size: 0.9em;
+    font-size: 1.0em;
 }
 .work{
     color: rgb(133, 239, 91);
   
+}
+.skills{
+    margin-left: 60px;
+}
+.skillHead{
+  
+    color: rgb(133, 239, 91);
+    font-size: 1.0em;
+}
+.skills p{
+    font-weight: bold;
+}
+.education{
+    margin-left: 60px;
+}
+.education h3{
+    color: rgb(133, 239, 91);
+    font-size: 1.0em;
+}
+.education .schoolname{
+    color: rgb(23, 91, 185);
+}
+.education p{
+    font-weight: bold;
+}
+.exparience{
+    margin-left: 60px;
+}
+.exparience h3{
+    color: rgb(133, 239, 91);
+    font-size: 1.0em;
+}
+.workplace{
+    color: rgb(23, 91, 185);
+}
+.exparience p{
+    font-weight: bold;
 }
